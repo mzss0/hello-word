@@ -1,2 +1,2 @@
 # hello-word
-jusat for fun
+just for fun
